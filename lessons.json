@@ -1,0 +1,1099 @@
+[{
+    "stage": 1,
+    "lessonNumer": 1,
+    "lessonText": [
+        {
+            "words": [
+                "pen",
+                "pencil",
+                "book",
+                "a",
+                "what is (what`s)",
+                "this",
+                "it is (it`s)"
+            ],
+            "translations": [
+                "ручка",
+                "олівець",
+                "книжка",
+                "неозначений артикль",
+                "що (це)",
+                "це",
+                "це (є)"
+            ],
+            "question": [
+                "What`s this?"
+            ],
+            "answers": [
+                " It`s a pen"
+            ]
+        },
+        {
+            "words": [
+                "table",
+                "chair",
+                "light",
+                "wall",
+                "floor",
+                "room",
+                "ceiling",
+                "window",
+                "door",
+                "clock",
+                "box",
+                "picture",
+                "is this?",
+                "yes"
+            ],
+            "translations": [
+                "стіл",
+                "стілець",
+                "світло",
+                "стіна",
+                "підлога",
+                "кімната",
+                "стеля",
+                "вікно",
+                "двері",
+                "годинник",
+                "коробка",
+                "малюнок",
+                "чи це?",
+                "так"
+            ],
+            "question": [
+                "Is this a pen?"
+            ],
+            "answers": [
+                "Yes, it`s a pen"
+            ]
+        },
+        {
+            "words": [
+                "no, it is not (isn`t)"
+            ],
+            "translations": [
+                "ні, це не"
+            ],
+            "question": [
+                "Is this a pen?",
+                "Is this a pencil?"
+            ],
+            "answers": [
+                "No, it isn`t a pencil; it`s a book"
+            ]
+        },
+        {
+            "words": [
+                "long",
+                "short",
+                "the",
+                "contraction"
+            ],
+            "translations": [
+                "довгий",
+                "короткий",
+                "означенний артикль",
+                "скорочення"
+            ],
+            "question": [
+                "Is the pen short?",
+                "Is the pencil long?",
+                "Is the room short?"
+            ],
+            "answers": [
+                "No, the pen isn`t short; it`s long",
+                "No, the pencil isn`t long; it`s short",
+                "No, the room isn`t short; it`s long"
+            ]
+        },
+        {
+            "words": [
+                "large",
+                "small"
+            ],
+            "translations": [
+                "великий",
+                "малий"
+            ],
+            "question": [
+                "Is the table smsll?",
+                "Is the box large?"
+            ],
+            "answers": [
+                "No, the table isn`t small; it`s large",
+                "No, the box isn`t large; it`s small"
+            ]
+        },
+        {
+            "words": [
+                "city",
+                "town",
+                "village"
+            ],
+            "translations": [
+                "місто",
+                "містечко",
+                "село"
+            ],
+            "explanation": [
+                "London is a city. Windsor is a town. Grantchester is a village. "
+            ],
+            "question": [
+                "Is (London) a viilage?",
+                "Is (Windsor) a city?",
+                "Is (Grantchester) a town?"
+            ],
+            "answers": [
+                "No, (London) isn`t a village; it`s a city",
+                "No, (Windsor) isn`t a city; it`s a town",
+                "No, (Grantchester) isn`t a town; it`s a village"
+            ]
+        },
+        {
+            "words": [
+                "or"
+            ],
+            "translations": [
+                "чи"
+            ],
+            "question": [
+                "Is the table long or short?",
+                "Is a city large or small?"
+            ],
+            "answers": [
+                "The table`s ...",
+                "A city`s large"
+            ]
+        },
+        {
+            "words": [
+                "man",
+                "woman",
+                "boy",
+                "girl"
+            ],
+            "translations": [
+                "чоловік",
+                "жінка",
+                "хлопчик",
+                "дівчинка"
+            ],
+            "question": [
+                "What`s this?",
+                "Is this a dirl?",
+                "Is this a man?",
+                "Is this a woman?",
+                "Is this a boy?"
+            ],
+            "answers": [
+                "It`s a man. It`s a woman. It`s a boy. It`s a girl.",
+                "No, it isn`t a girl; it`s a man",
+                "No, it isn`t a man; it`s a woman",
+                "No, it isn`t a woman; it`s a boy",
+                "No, it isn`t a boy; it`s a girl"
+            ]
+        },
+        {
+            "words": [
+                "one",
+                "two",
+                "three",
+                "four",
+                "five",
+                "on",
+                "under",
+                "in"
+            ],
+            "translations": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "на",
+                "під",
+                "в"
+            ],
+            "question": [
+                "Is the pen in the book?",
+                "Is the pen under the book?"
+            ],
+            "answers": [
+                "No, the pen isn`t in the book;it`s under the book",
+                "No, the pen isn`t under the book; it`s on the book"
+            ]
+        },
+        {
+            "words": [
+                "Mr",
+                "Mrs",
+                "Jack",
+                "Anna"
+            ],
+            "translations": [
+                "містер",
+                "Місіс",
+                "Джек",
+                "Анна"
+            ],
+            "question": [
+                "Is this Anna Brown?",
+                "Is this Mr Brown?",
+                "Is this Mrs Brown?",
+                "Is this Jack Brown?"
+            ],
+            "answers": [
+                "No, it isn`t Anna Brown; it`s Mr Brown",
+                "No, it isn`t Mr Brown; it`s Mrs Brown",
+                "No, it isn`t Mrs Brown; it`s Jack Brown",
+                "No, it isn`t Jack Brown; it`s Anna Brown"
+            ]
+        },
+        {
+            "words": [
+                "black",
+                "white",
+                "green",
+                "brown",
+                "what colour?"
+            ],
+            "translations": [
+                "чорний",
+                "білий",
+                "зелений",
+                "коричневий",
+                "якого кольору?"
+            ],
+            "question": [
+                "What colour`s this pencil? "
+            ],
+            "answers": [
+                "This pencil`s black, white etc."
+            ]
+        },
+        {
+            "words": [
+                "six",
+                "seven",
+                "eight",
+                "nine",
+                "ten",
+                "where"
+            ],
+            "translations": [
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "де"
+            ],
+            "question": [
+                "Where`s the pen?",
+                "Where`s the book?",
+                "Where`s the pen?",
+                "Where`s the picture?",
+                "Where`s the light?"
+            ],
+            "answers": [
+                "The pen`s on the book",
+                "The book`s on the table",
+                "The pen`s under the table",
+                "The picture`s on the wall",
+                "The light`s on the ceiling"
+            ]
+        }
+    ],
+    "lessonAudio": "1_ve9Aaa80GuvvLFH-6kFnL2qh7lw-xuP"
+},
+{
+    "stage": 1,
+    "lessonNumer": 2,
+    "lessonText": [
+        {
+            "words": [
+                "I am (I`m)",
+                "you are (you`re)",
+                "he is (he`s)",
+                "she is (she`s)",
+                "it is (it`s)"
+            ],
+            "translations": [
+                "я",
+                "ти",
+                "він",
+                "вона",
+                "воно (це)"
+            ],
+            "question": [
+                "Am I ...?",
+                "Are you ...?",
+                "Is he Mr Brown?",
+                "Is she Mrs Brown?"
+            ],
+            "answers": [
+                "Yes, you`re ...",
+                "Yes, I`m ...",
+                "Yes, he`s Mr Brown",
+                "Yes, she`s Mrs Brown"
+            ]
+        },
+        {
+            "words": [
+                "I am not (I`m not)",
+                "you are not (you aren`t)",
+                "he is not (he isn`t)",
+                "she is not (she isn`t)",
+                "it is not (it isn`t)"
+            ],
+            "translations": [
+                "я не",
+                "ти не",
+                "він не",
+                "вона не",
+                "це не"
+            ],
+            "question": [
+                "Am I Mrs Brown?",
+                "Are you Mr Brown?",
+                "Is he Mr Smith?",
+                "Is she Mrs Brown?"
+            ],
+            "answers": [
+                "No, you aren`t Mrs Brown; you`re ...",
+                "No, I`m not Mr Brown; I`m ...",
+                "No, he isn`t Mr Smith; he`s Mr Brown",
+                "No, she isn`t Mr Brown; she`s Mrs Brown"
+            ]
+        },
+        {
+            "words": [
+                "in front of",
+                "behind",
+                "me",
+                "you"
+            ],
+            "translations": [
+                "спереду",
+                "позаду",
+                "мене",
+                "тебе"
+            ],
+            "question": [
+                "Where`s the table?",
+                "Is the wall in front of you?",
+                "Is the table behined me?"
+            ],
+            "answers": [
+                "The table`s in front of me",
+                "No, the wall isn`t in front of me; it`s behind me",
+                "No, the table isn`t behind you; it`s in front of you"
+            ]
+        },
+        {
+            "words": [
+                "him",
+                "her",
+                "house"
+            ],
+            "translations": [
+                "нього",
+                "неї",
+                "будинок"
+            ],
+            "question": [
+                "Where`s the house?",
+                "Where`s the house?",
+                "Are you behind her?",
+                "Am I in front of him?"
+            ],
+            "answers": [
+                "The house is behind him",
+                "The house is behind him",
+                "No, I`m not behind her; I`m in front of her",
+                "No, you aren`t in front of him; you`re behind him"
+            ]
+        },
+        {
+            "words": [
+                "standing",
+                "sitting"
+            ],
+            "translations": [
+                "стояти",
+                "сидіти"
+            ],
+            "question": [
+                "Are you standing on the floor?",
+                "Am I sitting on the chair?",
+                "Are you standing in front of me?"
+            ],
+            "answers": [
+                "No, I`m not standing on the floor; I`m sitting on the chair",
+                "No, you aren`t sitting on the chair; you`re standing on the floor",
+                "No, I`m not standing in front of you; I`m sitting in front of you"
+            ]
+        },
+        {
+            "words": [
+                "taking from",
+                "putting on"
+            ],
+            "translations": [
+                "взяти з",
+                "класи на"
+            ],
+            "question": [
+                "Am I putting the book on the floor?",
+                "Am I taking the pen from the table?"
+            ],
+            "answers": [
+                "No, you aren`t putting the book on the floor; you`re taking the book from the table",
+                "No, you aren`t taking the pen from the table; you`re putting the book on the table"
+            ]
+        },
+        {
+            "words": [
+                "opening",
+                "closing"
+            ],
+            "translations": [
+                "відкривати",
+                "закривати"
+            ],
+            "question": [
+                "Am I closing the door?",
+                "Am I opening the window"
+            ],
+            "answers": [
+                "No, you aren`t closing the door; you`re opening the book ",
+                "No, you aren`t opening the window; you`re closing the book"
+            ]
+        },
+        {
+            "words": [
+                "doing",
+                "what am I doing?"
+            ],
+            "translations": [
+                "робити",
+                "що я роблю?"
+            ],
+            "question": [
+                "What am I doing?",
+                "What am I doing?",
+                "What am I doing?",
+                "What am I doing?"
+            ],
+            "answers": [
+                "You`re taking the book from the table",
+                "You`re opening the book",
+                "You`re closing the book",
+                "You`re putting the book on the table"
+            ]
+        },
+        {
+            "words": [
+                "which"
+            ],
+            "translations": [
+                "котрий"
+            ],
+            "question": [
+                "Which pencil`s black?",
+                "Which pencil`s white?",
+                "Which pencil`s green?",
+                "Which pencil`s brown?"
+            ],
+            "answers": [
+                "This pencil`s black",
+                "This pencil`s white",
+                "This pencil`s green",
+                "This pencil`s brown"
+            ]
+        },
+        {
+            "words": [
+                "open",
+                "closed"
+            ],
+            "translations": [
+                "відкритий",
+                "закритий"
+            ],
+            "question": [
+                "Which book`s open?",
+                "Which book`s closed?"
+            ],
+            "answers": [
+                "This book`s open",
+                "This book`s closed"
+            ]
+        }
+    ],
+    "lessonAudio": "16P7fQNbk-e08I0nv1G1beHaotIzIvltH"
+},
+{"stage": 1,
+"lessonNumer": 3,
+"lessonText": [
+    {
+        "words": [
+            "this",
+            "that",
+            "chart"
+        ],
+        "translations": [
+            "цей",
+            "той",
+            "таблиця"
+        ],
+        "question": [
+            "What colour`s this pencil?",
+            "What colour`s that pencil?",
+            "Where`s this pencil?",
+            "Where`s that pencil?"
+        ],
+        "answers": [
+            "This pencil`s black",
+            "That pencil`s white",
+            "This pencil`s on the Chart",
+            "That pencil`s on the wall"
+        ]
+    },
+    {
+        "words": [
+            "eleven",
+            "twelve",
+            "thirteen",
+            "fourteen",
+            "fifteen",
+            "plural",
+            "of",
+            "etc."
+        ],
+        "translations": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "множина",
+            "від, до, з,",
+            "і т. д."
+        ],
+        "question": [
+            "What`s the plural of “book“?",
+            "What`s the plural of “clock“?",
+            "What`s the plural of “wall“"
+        ],
+        "answers": [
+            "The plural of “book” is “books”",
+            "The plural of “clock” is “clocks”",
+            "The plural of “wall” is “walls”"
+        ]
+    },
+    {
+        "words": [
+            "we are (we`re)",
+            "behind"
+        ],
+        "translations": [
+            "ми"
+        ],
+        "question": [
+            "Are we sitting?",
+            "Where are we sitting?"
+        ],
+        "answers": [
+            "Yes, we`re sitting",
+            "We`re sitting on the chairs"
+        ]
+    },
+    {
+        "words": [
+            "they are (they`re)"
+        ],
+        "translations": [
+            "вони"
+        ],
+        "question": [
+            "Are they standing?",
+            "Where are they standing?"
+        ],
+        "answers": [
+            "Yes, they`re standing",
+            "They`re standing in front  of the house"
+        ]
+    },
+    {
+        "words": [
+            "we are not (we aren`t)"
+        ],
+        "translations": [
+            "ми не"
+        ],
+        "question": [
+            "Are we standing?",
+            "Are we sitting on the floor?"
+        ],
+        "answers": [
+            "No, we aren`t standing; we`re sitting",
+            "No, we aren`t sitting on the floor; we`re sitting on the chairs"
+        ]
+    },
+    {
+        "words": [
+            "they are not (they aren`t)"
+        ],
+        "translations": [
+            "вони не"
+        ],
+        "question": [
+            "Are they sitting?",
+            "Are they standing behind the house?"
+        ],
+        "answers": [
+            "No, they aren`t sitting; they`re standing",
+            "No, they aren`t standing behind the house; they`re standing in front of the house"
+        ]
+    },
+    {
+        "words": [
+            "red",
+            "blue",
+            "yellow",
+            "grey"
+        ],
+        "translations": [
+            "червоний",
+            "синій",
+            "жовтий",
+            "сірий"
+        ],
+        "question": [
+            "What colour`s this pencil?"
+        ],
+        "answers": [
+            "This pencil`s red, blue etc"
+        ]
+    },
+    {
+        "words": [
+            "these",
+            "those",
+            "and"
+        ],
+        "translations": [
+            "ці",
+            "ті",
+            "і"
+        ],
+        "question": [
+            "What colour`s this pencil?",
+            "What colour`s that pencil?",
+            "What colour are these pencils?",
+            "What colour are those pencils?",
+            "Where are these pencils?",
+            "Where are those pencils?",
+            "What colour are these chairs?",
+            "What colour are those chairs?"
+        ],
+        "answers": [
+            "This pencil`s black",
+            "That pencil`s white",
+            "These pencils are black and green",
+            "Those pencils are white and brown",
+            "These pencils are on the Chart",
+            "Those pencils are on the wall",
+            "These chairs are ...",
+            "Those chairs are ..."
+        ]
+    },
+    {
+        "words": [
+            "men",
+            "women"
+        ],
+        "translations": [
+            "чоловіки",
+            "жінки"
+        ],
+        "question": [
+            "What`s the plural of “man“?",
+            "What`s the plural of “woman“?"
+        ],
+        "answers": [
+            "The plural of “man“ is “men“",
+            "The plural of “woman“ is “women“"
+        ]
+    },
+    {
+        "words": [
+            "sixteen",
+            "seventeen",
+            "eighteen",
+            "nineteen",
+            "twenty"
+        ],
+        "translations": [
+            "16",
+            "17",
+            "18",
+            "19",
+            "20"
+        ]
+    },
+    {
+        "words": [
+            "clothes"
+        ],
+        "translations": [
+            "одяг"
+        ],
+        "question": [
+            "What are these?"
+        ],
+        "answers": [
+            "These are clothes"
+        ]
+    },
+    {
+        "words": [
+            "shoe",
+            "boot",
+            "sock",
+            "trousers",
+            "jacket",
+            "suit",
+            "shirt",
+            "tie",
+            "hat",
+            "bag"
+        ],
+        "translations": [
+            "черевик",
+            "чобіт",
+            "шкарпетка",
+            "штани",
+            "куртка",
+            "костюм",
+            "сорочка",
+            "краватка",
+            "капелюх",
+            "сумка"
+        ],
+        "question": [
+            "What`s this?",
+            "What are these?"
+        ],
+        "answers": [
+            "It`s a shoe, boot etc.",
+            "These are trousers"
+        ]
+    },
+    {
+        "words": [
+            "alphabet",
+            "letter"
+        ],
+        "translations": [
+            "алфавіт",
+            "літера"
+        ],
+        "question": [
+            "What letter`s this?"
+        ],
+        "answers": [
+            "A, B, etc."
+        ]
+    },
+    {
+        "words": [
+            "vowel",
+            "consonant"
+        ],
+        "translations": [
+            "чоловіки",
+            "жінки"
+        ],
+        "explanation": ["These are the five vowels: A, E, I, O, U. The letters B, C, D etc. are consonants. "],
+        "question": [
+            "What are these?",
+            "What are the five vowels",
+            "Is the letter “B“ a vowel"
+        ],
+        "answers": [
+            "These are the five vowels",
+            "The five vowels are A, E, I ,O, U",
+            "No, the letter B isn`t a vowel; it`s a consonant"
+        ] 
+    },
+    {
+        "words": [
+            "before",
+            "after"
+        ],
+        "translations": [
+            "чоловіки",
+            "жінки"
+        ],
+        "question": [
+            "Which letter`s before E?",
+            "Which letter`s after I?",
+            "Which letter`s before Z?",
+            "Which letter`s after G?"
+        ],
+        "answers": [
+            "D`s before E",
+            "J`s after I",
+            "Y`s before Z",
+            "H`s after G"
+        ]
+    }
+],
+"lessonAudio": "1ik63zTDhTABf9jiEzxo18l7IkausCNST"},
+{"stage": 1,
+"lessonNumer": 4,
+"lessonText": [
+    {
+        "words": [
+            "between"
+        ],
+        "translations": [
+            "між"
+        ],
+        "question": [
+            "Which letter`s between D and F?",
+            "Which letter`s between H and G?",
+            "Which letter`s between Q and S?"
+        ],
+        "answers": [
+            "E`s between D and F",
+            "I`s between H and J",
+            "R`s between Q and S"
+        ]
+    },
+    {
+        "words": [
+            "us"
+        ],
+        "translations": [
+            "нас"
+        ],
+        "question": [
+            "Where`s the table?",
+            "Are the walls in front of us?",
+            "Is the table behined us?"
+        ],
+        "answers": [
+            "The table`s in front of us",
+            "No, the walls aren`t in front of us; they`re behind us",
+            "No, the table isn`t behind us; it`s in front of us"
+        ]
+    },
+    {
+        "words": [
+            "them"
+        ],
+        "translations": [
+            "них"
+        ],
+        "question": [
+            "Where`s the house?",
+            "Are you behind them?",
+            "Am I in front of them?"
+        ],
+        "answers": [
+            "The house`s behind them",
+            "No, I`m not behind them; I`m in front of them",
+            "No, you aren`t in front of them; you`re behind them"
+        ]
+    },
+    {
+        "words": [
+            "student",
+            "teacher"
+        ],
+        "translations": [
+            "учень",
+            "вчитель"
+        ],
+        "question": [
+            "Am I a student?",
+            "Are you the teacher?"
+        ],
+        "answers": [
+            "No, you aren`t a student; you`re the teacher",
+            "No, I`m not the teacher; I`m a student"
+        ]
+    },
+    {
+        "words": [
+            "thirty",
+            "forty",
+            "fifty",
+            "sixty",
+            "seventy",
+            "eighty",
+            "ninety",
+            "hundred",
+            "thousand",
+            "million",
+            "number"
+        ],
+        "translations": [
+            "30",
+            "40",
+            "50",
+            "60",
+            "70",
+            "80",
+            "90",
+            "100",
+            "1000",
+            "1000000",
+            "число"
+        ],
+        "question": [
+            "What number`s this?",
+            "What numbers are these?",
+            "What number`s this?"
+        ],
+        "answers": [
+            "30, 40 etc",
+            "30–13; 40–14 etc.",
+            "313 1,815 1,950,630"
+        ]
+    },
+    {
+        "words": [
+            "plus",
+            "equals"
+        ],
+        "translations": [
+            "плюс",
+            "дорівнює"
+        ],
+        "question": [
+            "What`s this?"
+        ],
+        "answers": [
+            "It`s 2 + 2 = 4"
+        ]
+    },
+    {
+        "words": [
+            "how much"
+        ],
+        "translations": [
+            "скільки"
+        ],
+        "question": [
+            "How much is 13 plus 5?"
+        ],
+        "answers": [
+            "13 plus 5 equals 18"
+        ]
+    },
+    {
+        "words": [
+            "there is(there`s)"
+        ],
+        "translations": [
+            "є, в наявності (однина)"
+        ],
+        "question": [
+            "Is there a pen on this book?",
+            "Is there a light on this ceiling?",
+            "Is there a bag in this room?"
+        ],
+        "answers": [
+            "Yes, there`s a pen on this book",
+            "Yes, there`s a light on the ceiling",
+            "Yes, there`s a bag in this room"
+        ]
+    },
+    {
+        "words": [
+            "there are",
+            "now"
+        ],
+        "translations": [
+            "є, в наявності (множина)",
+            "зараз"
+        ],
+        "question": [
+            "Is there a pen on the book?",
+            "Are there two pens on the book now?",
+            "Are there 12 chairs in this room?",
+            "Are there 2 pictures on these walls?"
+        ],
+        "answers": [
+            "Yes, there`s a pen on the book",
+            "Yes, there are two pens on the book now",
+            "Yes, there are 12 chairs in this room",
+            "Yes, there are 2 pictures on these walls"
+        ]
+    },
+    {
+        "words": [
+            "there is not (there isn`t)"
+        ],
+        "translations": [
+            "немає (однина)"
+        ],
+        "question": [
+            "Is there a pen on the book?",
+            "Is there a book on the floor?",
+            "Is there a clock on the table?"
+        ],
+        "answers": [
+            "No, there isn`t a pen on the book",
+            "No, there isn`t a book on the floor",
+            "No, there isn`t a clock on the table "
+        ]
+    },
+    {
+        "words": [
+            "there are not (there aren`t)"
+        ],
+        "translations": [
+            "немає (множина)"
+        ],
+        "question": [
+            "Are there three clocks on the wall?",
+            "Are there a hundred pictures in this room?",
+            "Are there a thousand chairs in this room?"
+        ],
+        "answers": [
+            "No, there aren`t three clocks on that wall; there`s one clock on that wall",
+            "No, there aren`t a hundred pictures in this room; there are ... pictures in this room",
+            "No, there aren`t a thousand chairs in this room; there are ... chairs in this room"
+        ]
+    },
+    {
+        "words": [
+            "high",
+            "low",
+            "but"
+        ],
+        "translations": [
+            "високий",
+            "низький",
+            "але"
+        ],
+        "question": [
+            "Is the chair high?",
+            "Is the wall low?",
+            "Is the table high?"
+        ],
+        "answers": [
+            "No, the chair isn`t high; it`s low",
+            "No, the wall isn`t low; it`s high",
+            "No, the table isn`t high; it`s low"
+        ]
+    }
+],
+"lessonAudio": "1a-cqUNxvlMr0Ah_ubF0lbAs1IsvWGUyq"}]
+
