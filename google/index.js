@@ -2,7 +2,7 @@ const { google } = require('googleapis')
 
 const { CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN, REDIRECT_URL } = process.env
 
-const getAudio = async (id) => {
+const getLesson = async (id) => {
   const oAuth2Client = new google.auth.OAuth2(CLIENT_ID, CLIENT_SECRET, REDIRECT_URL)
   oAuth2Client.setCredentials({refresh_token: REFRESH_TOKEN})
   const drive = google.drive({version: "v3", auth: oAuth2Client})
@@ -14,8 +14,9 @@ const getAudio = async (id) => {
   }
 
  const url = await drive.files.get({fileId: id, fields: 'webContentLink'})
+ 
  if (!url) {
-  const error = new Error(`Audio with id ${id} not found`)
+  const error = new Error(`Lesson with id ${id} not found`)
   error.status = 404
   throw error
  }
@@ -23,4 +24,4 @@ const getAudio = async (id) => {
  return url.data
 }
 
-module.exports = getAudio
+module.exports = getLesson

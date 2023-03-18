@@ -1,5 +1,5 @@
 const { Lesson } = require('../../models/lessons')
-const getAudio = require('../../google/index')
+const getLesson = require('../../google/index')
 
 const getById = async (req, res) => {
  
@@ -10,12 +10,14 @@ const getById = async (req, res) => {
     error.status = 404
     throw error
   }
-  const audioUrl = getAudio(result.lessonAudio)
+  const audioUrl = await getLesson(result.lessonAudio)
+
 
   res.json({ id: result._id,
-    lessonAudio: audioUrl,
+    stage: result.stage,
     lessonNumber: result.lessonNumber,
+    lessonAudio: audioUrl,
     lessonText: result.lessonText,
-    stage: result.stage,})
+    pagesInLesson: result.pagesInLesson})
 }
 module.exports = getById

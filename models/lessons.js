@@ -6,11 +6,14 @@ const lessonsSchema = Schema(
       type: Number,
       required: true,
     },
-    lessonNumer: {
+    lessonNumber: {
       type: Number,
       required: true,
     }, 
-    lessonText: [ {words: Schema.Types.Mixed, transcription: Schema.Types.Mixed, translations: Schema.Types.Mixed, explanation: Schema.Types.Mixed, question: Schema.Types.Mixed, answers: Schema.Types.Mixed }],
+    lessonText: {
+      type: String,
+      required: true,
+    },
     lessonAudio: {
       type: String,
       required: true,
